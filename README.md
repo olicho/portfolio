@@ -30,6 +30,8 @@ description...
 
 ## Contact
 - Email: olivia.cho@nyu.edu
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn](www.linkedin.com/in/oliviacho2025)
 - ORCID: [Your ORCID](https://orcid.org/0009-0007-5083-5371)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
+
+
+
