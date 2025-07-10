@@ -7,11 +7,11 @@ Brief introduction about your background, interests, and goals in computational 
 - Machine learning applications in biology
 - Bioinformatics tool development
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### [Project 1 Name](./projects/project1/)
+### [Bulk RNA-Seq Analysis](./projects/genomics-analysis/)
 description...
-- **Technologies**: Python, R, Bioconductor, etc.
+- **Technologies**: Python, Bioconductor, etc.
 - **Status**: In Progress
 - **Key Results**: Brief summary
 
